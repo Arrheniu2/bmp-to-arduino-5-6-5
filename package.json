@@ -1,0 +1,16 @@
+{
+  "name": "bmp-to-arduino-5-6-5",
+  "version": "1.0.0",
+  "description": "Program to convert regular BMP into an array of bytes of 16Bit in RGB 5-6-5 to use in flash memory of an arduino program
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "arrheniu2",
+  "license": "ISC",
+  "dependencies": {
+    "bmp-js": "^0.1.0",
+    "jimp": "^0.16.0"
+  }
+}
